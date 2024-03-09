@@ -10,7 +10,7 @@ function Hero() {
         <div className={styles.hero_content}>
           <div className={styles.hero_info}>
             <p className={styles.text_1}>Greetings, tech enthusiast!</p>
-            <h3 className={styles.text_2}>Mr. Wiset Phaiauruwana</h3>
+            <h3 className={styles.text_2}>Ms. suphansa rampan</h3>
             <p className={styles.text_3}>
               <span>I am a </span>
               <TypeAnimation

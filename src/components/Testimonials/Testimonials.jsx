@@ -8,35 +8,35 @@ function Testimonials() {
       <div className={styles.testi_list}>
         <div className={styles.testi_items}>
           <p>
-            "He is talented and outstanding. He can do many things."
+            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure animi commodi fugit eveniet quasi earum ab vitae officia. Quae earum exercitationem nulla eius esse cumque dignissimos rem quia, in nesciunt!"
           </p>
           <img
-            src="https://img.lovepik.com/free-png/20210924/lovepik-cartoon-doctor-png-image_401328360_wh1200.png"
+            src="https://i.pinimg.com/736x/b1/b2/3a/b1b23ae634b3efa9a4af4a4613d1b214.jpg?fbclid=IwAR0VC1e6LVi8HItXExYv9BXS96Ebs5b7ZxA-d-uvQsKMvUqubz8Y4zQpsvs"
             alt=""
           />
-          <h4>Toto</h4>
+          <h4>Now</h4>
           <p className={styles.bio}>full-stack</p>
         </div>
         <div className={styles.testi_items}>
           <p>
-          "He is excellent at web development and he is also a very friendly person, easy to get along with others."
+          "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure animi commodi fugit eveniet quasi earum ab vitae officia. Quae earum exercitationem nulla eius esse cumque dignissimos rem quia, in nesciunt!"
           </p>
           <img
-            src="https://img.lovepik.com/free-png/20220127/lovepik-teacher-png-image_401915365_wh1200.png"
+            src="https://i.pinimg.com/736x/b3/17/f3/b317f39796d1974de83f01f4ffeb32c3.jpg?fbclid=IwAR2M8aA7fB4UqSLQs0U512wYwWYWz2HNtU5OvRSTZD4LRtF3fOlcYfdeo9I"
             alt=""
           />
-          <h4>mew</h4>
+          <h4>Owen</h4>
           <p className={styles.bio}>Web Developer</p>
         </div>
         <div className={styles.testi_items}>
           <p>
-          "He is a full-stack developer and also an expert in web development."
+          "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure animi commodi fugit eveniet quasi earum ab vitae officia. Quae earum exercitationem nulla eius esse cumque dignissimos rem quia, in nesciunt!"
           </p>
           <img
-            src="https://e7.pngegg.com/pngimages/694/303/png-clipart-school-uniform-homo-sapiens-mangaka-boy-black-hair-boy-purple-brown.png"
+            src="https://i.pinimg.com/736x/73/63/9b/73639b81db785c57a0fb3edd8611d41b.jpg?fbclid=IwAR2wJIAipPrE8ACqMMgUvwcnCs_VB9_oaeEWnG4pGU2nt2iPNh9-9lFmpIQ"
             alt=""
           />
-          <h4>poy</h4>
+          <h4>Phxnu</h4>
           <p className={styles.bio}>Front-end developer.</p>
         </div>
       </div>
